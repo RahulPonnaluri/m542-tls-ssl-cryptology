@@ -116,7 +116,6 @@ python3 code/tls_scanner.py
 - Codenomicon (2014) *Heartbleed* — OpenSSL memory disclosure
 ```
 ```
----
 
 ## 📂 Step 5 — Create Folders and Upload Files
 
