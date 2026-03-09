@@ -1,9 +1,9 @@
 # M542 Cryptology — TLS/SSL Cryptographic Attacks
 
 **Institution:** Gisma University of Applied Sciences  
-**Department:** Computer and Data Sciences  
-**Module:** M542 Cryptology | **Semester:** Winter 2026  
-**Author:** Rahul | **GitHub:** RaHuLo40  
+**Department:**BusinessManagement and CyberSecurity 
+**Module:** M542 Cryptology | **Semester:** Winter 2025  
+**Author:** Rahul Ponnaluri | **GitHub:** RaHuLo40  
 
 ---
 
