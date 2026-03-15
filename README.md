@@ -3,7 +3,7 @@
 **Institution:** Gisma University of Applied Sciences  
 **Department:**BusinessManagement and CyberSecurity 
 **Module:** M542 Cryptology | **Semester:** Winter 2025  
-**Author:** Rahul Ponnaluri | **GitHub:** RaHuLo40  
+**Author:** Rahul Ponnaluri | **GitHub:** RahulPonnaluri  
 
 ---
 
